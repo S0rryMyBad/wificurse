@@ -188,7 +188,7 @@ void *deauth_thread_func(void *arg) {
 }
 
 static void print_usage(FILE *f) {
-	fprintf(f, "\n  WiFi Curse v" VERSION " (C) 2012  oblique\n\n");
+	fprintf(f, "\n  WiFi Curse v" VERSION " (C) 2017  3V1L\n\n");
 	fprintf(f, "  usage: wificurse [options] <interface>\n\n");
 	fprintf(f, "  Options:\n");
 	fprintf(f, "    -c channels      Channel list (e.g 1,4-6,11) (default: 1-14)\n");
