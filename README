@@ -1,4 +1,5 @@
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/S0rryMyBad/wificurse.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/S0rryMyBad/wificurse/alerts/)
+Review: [![Total alerts](https://img.shields.io/lgtm/alerts/g/S0rryMyBad/wificurse.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/S0rryMyBad/wificurse/alerts/)
+Code Quality: [![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/S0rryMyBad/wificurse.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/S0rryMyBad/wificurse/context:cpp)
 
 compile:
     make
